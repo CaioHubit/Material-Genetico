@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-  <h1>Decodificando o DNA - README</h1>
+
   <h2>🔬 Bem-vindo(a) ao mundo da decodificação do DNA!</h2>
   <p>Olá, pessoal! Chegou a hora de mergulhar de cabeça no incrível universo do DNA. Este é baseados nas máterias de minha faculdade, principalmente uma chamada "Decodificando o DNA" e aqui vamos explorar de forma eletrizante as estruturas, formas e os segredos da tradução do DNA e RNA, junto de um mix de outras áreas biologicas que se interligam de alguma maneira em prol de tornar esse um lugar rico em informação e extremamente acolhedor. Vamos desvendar os mistérios da polimerase, tipos de fitas e os métodos empregados tanto em seres eucariotos quanto em procariotos. Prepare-se para uma jornada repleta de descobertas!</p>
   <h2>🧬 Desbravando as Estruturas e Formas do DNA</h2>
