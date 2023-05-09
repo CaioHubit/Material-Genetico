@@ -34,13 +34,29 @@
     <li>A replicação do DNA em bactérias está mais relacionada com a taxa de crescimento e a resposta a estímulos ambientais.</li>
     <li>Procariotos possuem uma única DNA polimerase responsável pela replicação do DNA.</li>
   </ul>
-  <li><strong>🔨Verificação do DNA</strong> (DNA proofreading): Enzimas especializadas, como a exonuclease, que têm a capacidade de revisar e corrigir erros durante a replicação do DNA, melhorando a fidelidade da cópia.</li>
-<li><strong>Verificação pós-replicativa do DNA</strong> (post-replicative DNA mismatch repair): Um sistema que detecta e corrige erros de pareamento de bases após a replicação do DNA.</li>
-<li><strong>Sistema de reparo direcionado por RNA</strong> (RNA-directed repair): Um mecanismo de reparo que utiliza moléculas de RNA como guias para direcionar a reparação de sequências específicas de DNA.</li>
-</ul>
-
-<p>Esses sistemas de reparo e verificação do DNA desempenham um papel crucial na manutenção da integridade do material genético, prevenindo a acumulação de mutações e garantindo a estabilidade genômica.</p>
-
+  <h1>Verificação e Reparo do DNA: 🧬✨</h1>
+  <p>A manutenção da integridade do DNA é crucial para a preservação da informação genética e prevenção de mutações. Para isso, os organismos possuem sistemas de verificação e reparo eficientes, envolvendo diversas maquinarias proteicas. Vamos conhecer algumas delas:</p>
+  <h2>Reparo por Excisão de Nucleotídeos: 🔧🔬</h2>
+  <p>O reparo por excisão de nucleotídeos é um sistema que remove e substitui nucleotídeos danificados ou incorretamente pareados. As maquinarias proteicas envolvidas nesse processo incluem:</p>
+  <ul>
+    <li>🔬 Exonucleases: responsáveis por remover o segmento de DNA danificado.</li>
+    <li>🔧 DNA Polimerase: sintetiza um novo segmento de DNA complementar ao molde.</li>
+    <li>🧲 Fator de Reparo por Excisão de Nucleotídeos (EREN): coordena e facilita a ação das proteínas envolvidas.</li>
+  </ul>
+  <h2>Reparo por Recombinação Homóloga: 🔄🔀</h2>
+  <p>O reparo por recombinação homóloga utiliza uma sequência idêntica de DNA como molde para reparar quebras de DNA. As maquinarias proteicas envolvidas nesse processo incluem:</p>
+  <ul>
+    <li>🔄 Recombinases: responsáveis pela identificação e processamento da sequência homóloga.</li>
+    <li>🔀 Proteínas de Recombinação: auxiliam na troca de segmentos entre as sequências homólogas.</li>
+    <li>⚡️ Proteínas de Reparo de Quebras de DNA: promovem a ligação dos fragmentos de DNA reparados.</li>
+  </ul>
+  <h2>Reparo por Não Homóloga de Extremidades: 🧩🔀</h2>
+  <p>O reparo por não homóloga de extremidades junta as extremidades quebradas do DNA, muitas vezes resultando em pequenas deleções ou inserções. As maquinarias proteicas envolvidas nesse processo incluem:</p>
+  <ul>
+    <li>🧩 Ligases: responsáveis por unir as extremidades de DNA quebradas.</li>
+    <li>🔀 Proteínas de União de Extremidades: promovem a ligação das extremidades quebradas antes da ligação final.</li>
+  </ul>
+  <p>Essas são apenas algumas das maquinarias proteicas envolvidas nos processos de verificação e reparo do DNA. Esses sistemas são essenciais para manter a estabilidade genômica e a integridade das informações genéticas em todos os seres vivos.</p>
 </body>
 </html>
 
