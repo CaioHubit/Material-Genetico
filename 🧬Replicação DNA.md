@@ -1,7 +1,7 @@
 
 </head>
 <body>
-  <h1>🛠️Replicação do DNA - Passos e Proteínas</h1>
+  <h1>🛠️Replicação do DNA - Passos e Máquinarias</h1>
   <p>A replicação do DNA é um processo crucial para a transmissão correta da informação genética de uma célula para suas células filhas. Envolve a duplicação precisa da molécula de DNA, resultando em duas cópias idênticas. Aqui estão os principais passos envolvidos na replicação do DNA e as proteínas chave que desempenham papéis fundamentais nesse processo:</p>
   <ol>
     <li><strong>Desnaturação:</strong> A dupla hélice de DNA é separada, resultando em duas fitas de DNA simples. A enzima responsável por esse processo é a <em>helicase</em>, que desenrola a dupla hélice.</li>
