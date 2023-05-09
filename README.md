@@ -17,7 +17,5 @@
 <p>Estamos empolgados para embarcar nessa jornada de decodificação do DNA junto com você! Prepare-se para explorar as estruturas fascinantes, entender os processos vitais de tradução do DNA e RNA, mergulhar no mundo das polimerases, desvendar os tipos de fitas e comparar as peculiaridades dos seres eucariotos e procariotos.</p>
 <p>A ciência é um campo em constante evolução, e estamos ansiosos para compartilhar as descobertas mais recentes e as aplicações práticas desses conhecimentos. Juntos, vamos desvendar os segredos do DNA e ampliar nossa compreensão sobre a complexidade e diversidade da vida.</p>
 <p>Agora, prepare-se para essa aventura fascinante! Estamos prontos para decodificar o DNA com você. Divirta-se e bons estudos!</p>
-<p>Atenciosamente,</p>
-<p>[Seu nome]</p>
 </body>
 </html>
