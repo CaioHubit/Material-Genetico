@@ -1,28 +1,47 @@
 
   <h1>Divisão Celular</h1>
 
-  <h2>📚 Anotações de uma Matéria na Faculdade</h2>
-  <p>Essas são anotações breves sobre as etapas da divisão celular, estudadas em uma matéria da faculdade.</p>
+  <h2>Introdução 🧬</h2>
+  <p>Este repositório aborda o processo de divisão celular e explora as etapas envolvidas, bem como os sistemas de verificação e inibidores que garantem a integridade e a precisão desse processo.</p>
+A divisão celular é um processo complexo que ocorre em duas etapas principais: a mitose e a meiose. Ambos os processos envolvem a replicação do material genético, a separação dos cromossomos e a formação de células filhas. As principais fases da divisão celular são:
 
-  <h2>Introdução</h2>
-  <p>A divisão celular é um processo fundamental para o crescimento e a reprodução dos organismos. Consiste na duplicação do material genético e subsequente distribuição igual desse material para duas células filhas.</p>
+<strong>Mitose:</strong>
 
-  <h2>Etapas da Divisão Celular</h2>
-  <p>A divisão celular é composta por duas principais etapas: a mitose e a citocinese.</p>
+<ol>
+  <li><strong>Prófase:</strong> O material genético é condensado em cromossomos e o fuso mitótico começa a se formar. 🧬🔬</li>
+  <li><strong>Metáfase:</strong> Os cromossomos se alinham no equador da célula e são presos pelo fuso mitótico. 🧬⚖️</li>
+  <li><strong>Anáfase:</strong> Os cromossomos irmãos são separados e puxados para pólos opostos da célula. 🧬🔀</li>
+  <li><strong>Telófase:</strong> Os cromossomos chegam aos pólos da célula e ocorre a descondensação do material genético. A membrana nuclear e o citoplasma se dividem, formando duas células filhas. 🧬🧪🆕</li>
+</ol>
+<strong>Meiose:</strong>
 
-  <h3>Mitose</h3>
-  <p>A mitose é o processo de divisão do núcleo celular. É dividida em quatro fases:</p>
-  <ol>
-    <li><strong>Prófase:</strong> Nesta fase, a cromatina condensa-se em cromossomos visíveis. O envelope nuclear começa a se desintegrar e o fuso mitótico forma-se.</li>
-    <li><strong>Metáfase:</strong> Os cromossomos alinham-se no equador da célula e se ligam às fibras do fuso mitótico pelo centrômero.</li>
-    <li><strong>Anáfase:</strong> Os centrômeros dividem-se e as cromátides irmãs são separadas, sendo puxadas para polos opostos da célula pelos microtúbulos do fuso mitótico.</li>
-    <li><strong>Telófase:</strong> Nesta fase, os cromossomos alcançam os polos opostos e descondensam-se. O envelope nuclear forma-se ao redor dos cromossomos em cada polo, e a citocinese tem início.</li>
-  </ol>
+</ol>
+<strong>Meiose:</strong>
+<ol>
+  <li><strong>Prófase I:</strong> O material genético é condensado em cromossomos homólogos, ocorre o crossing-over e o fuso meiótico começa a se formar. 🧬🔁🔬</li>
+  <li><strong>Metáfase I:</strong> Os cromossomos homólogos se alinham no equador da célula e são presos pelo fuso meiótico. 🧬⚖️</li>
+  <li><strong>Anáfase I:</strong> Os cromossomos homólogos são separados e puxados para pólos opostos da célula. 🧬🔀</li>
+  <li><strong>Telófase I:</strong> Os cromossomos chegam aos pólos da célula e ocorre a descondensação do material genético. A membrana nuclear e o citoplasma se dividem, formando duas células filhas. 🧬🧪🆕</li>
+  <li><strong>Prófase II:</strong> Os cromossomos irmãos se condensam novamente e o fuso meiótico começa a se formar. 🧬🔁🔬</li>
+  <li><strong>Metáfase II:</strong> Os cromossomos se alinham no equador da célula e são presos pelo fuso meiótico. ⚖️</li>
 
-  <h3>Citocinese</h3>
-  <p>A citocinese é o processo de divisão do citoplasma que ocorre após a mitose. Durante essa etapa, o citoplasma é dividido, formando duas células filhas separadas.</p>
+  <li><strong>Anáfase II:</strong> Os cromossomos irmãos são separados e puxados para pólos opostos da célula. 🧬🔀</li>
+  <li><strong>Telófase II:</strong> Os cromossomos chegam aos pólos da célula e ocorre a descondensação do material genético. A membrana nuclear e o citoplasma se dividem, formando quatro células filhas. 🧬🧪🆕🆕🆕🆕</li>
+</ol>
+ <p>A divisão celular é limitada por sistemas de verificação que garantem a integridade do material genético. Esses sistemas incluem checkpoints no ciclo celular que verificam se todas as fases foram concluídas corretamente e se o material genético está íntegro. ✅🧬</p>
+ <p>Além disso, a célula pode ser impedida de entrar na próxima fase da divisão celular se houver danos no DNA ou se condições adequadas não forem atendidas. Os principais limitadores e sistemas de verificação da divisão celular são: 🔒🧬</p>
+<strong>Ponto de Restrição (R):</strong> Na fase G1 do ciclo celular, o ponto de restrição atua como um limitador que verifica se as condições ambientais e os sinais extracelulares são favoráveis para a célula prosseguir com a divisão. Se as condições não forem adequadas, a célula pode entrar em um estado de quiescência chamado G0, onde ela pausa temporariamente o ciclo celular ou se diferencia em uma célula especializada. ⏸️🚦
 
-  <h2>Conclusão</h2>
-  <p>A divisão celular é essencial para o crescimento, a renovação e a reprodução dos organismos. Compreender as etapas da mitose e da citocinese nos ajuda a entender como as células se multiplicam e se desenvolvem.</p>
-</body>
-</html>
+<strong>Checkpoint de DNA:</strong> Durante as fases G1, S (síntese de DNA), G2 (preparação para a divisão) e M (mitose), ocorrem checkpoints de DNA que avaliam a integridade do material genético antes de permitir a progressão para a próxima fase. Se houver danos no DNA, os checkpoints ativam mecanismos de reparo ou desencadeiam a morte celular programada (apoptose) para evitar a proliferação de células com mutações genéticas. ⚠️🔒🧬
+
+<strong>Proteínas reguladoras do ciclo celular:</strong> Existem proteínas específicas, como as ciclinas e as quinases dependentes de ciclina (CDKs), que regulam o avanço do ciclo celular. Essas proteínas controlam os processos-chave da divisão celular, como a iniciação da replicação do DNA, a segregação dos cromossomos e a formação do fuso mitótico. 🧪🔄🧬
+
+<strong>Proteínas de reparo do DNA:</strong> Caso ocorram danos no DNA durante a replicação ou em outras fases do ciclo celular, proteínas de reparo do DNA entram em ação para corrigir os danos e preservar a integridade do material genético. 🛠️🔧🧬
+
+A compreensão dos limitadores e sistemas de verificação da divisão celular é essencial para manter a estabilidade genômica, prevenir a formação de células anormaise garantir o funcionamento adequado dos tecidos e organismos. Esses mecanismos de controle asseguram a precisão e a integridade do processo de divisão celular, contribuindo para a saúde e o desenvolvimento adequados. 🧬💪🧠🔬
+
+Espero que essa explicação sobre a divisão celular tenha sido útil e informativa! Se você tiver mais alguma pergunta, estarei aqui para ajudar. 😊🌟
+
+
+
+
