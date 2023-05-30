@@ -29,7 +29,7 @@
     <li><strong>Mutação Genética:</strong> Alterações na sequência de DNA que podem levar a mudanças nas características dos organismos.</li>
     <li><strong>Codão:</strong> Uma sequência de três bases de RNA que codifica um aminoácido específico.</li>
     <li><strong>Anticódon:</strong> Uma sequência complementar de três bases no RNA que se liga ao codão correspondente durante a tradução.</li>
-    <li><strong>RNA de Transferência (tRNA):</strong> Um tipo de RNA que transporta aminoácidos para os ribossomos durante a síntese de proteínas.</li>
+    <li><strong>RNA de Transportador (tRNA):</strong> Um tipo de RNA que transporta aminoácidos para os ribossomos durante a síntese de proteínas.</li>
     <li><strong>RNA Ribossômico (rRNA):</strong> Um tipo de RNA que faz parte da estrutura dos ribossomos, onde ocorre a síntese de proteínas.</li>
     <li><strong>Mutação Cromossômica:</strong> Alterações na estrutura ou no número de cromossomos, podendo afetar grandes regiões do DNA.</li>
     <li><strong>Genoma Mitocondrial:</strong> O conjunto de material genético presente nas mitocôndrias, transmitido principalmente pela linhagem materna.</li>
